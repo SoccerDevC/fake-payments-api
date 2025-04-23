@@ -1,0 +1,24 @@
+{
+  "name": "fake-payments-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API built with Express that simulates collecting fake payments. This is for learning, prototyping, or demo purposes only — **no real payments are processed**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoccerDevC/fake-payments-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SoccerDevC/fake-payments-api/issues"
+  },
+  "homepage": "https://github.com/SoccerDevC/fake-payments-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
